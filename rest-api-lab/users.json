@@ -1,0 +1,38 @@
+[
+    {
+      "CompanyName": "Tech Innovations",
+      "EmployeeName": "John Doe",
+      "Position": "Engineer",
+      "Location": "Davao City",
+      "Id": 1
+    },
+    {
+      "CompanyName": "Tech Innovations",
+      "EmployeeName": "James Arthur",
+      "Position": "Manager",
+      "Location": "Davao City",
+      "Id": 2
+    },
+    {
+      "CompanyName": "Tech Innovations",
+      "EmployeeName": "Billie Eilish",
+      "Position": "Analyst",
+      "Location": "Davao City",
+      "Id": 3
+    },
+    {
+      "CompanyName": "Tech Innovations",
+      "EmployeeName": "Keshi White",
+      "Position": "Designer",
+      "Location": "Davao City",
+      "Id": 4
+    },
+    {
+      "CompanyName": "Tech Innovations",
+      "EmployeeName": "Gracie Abrams",
+      "Position": "Developer",
+      "Location": "Davao City",
+      "Id": 5
+    }
+]
+  
